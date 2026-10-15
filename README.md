@@ -159,7 +159,8 @@ A question before buying: contact@oliviersportsdata.com
 
 👉 ⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_bottom)** 👈
 
-````
+---
+
 ### Only need one country?
 
 Each country is also sold on its own: both divisions, same tables, same columns, same 5 bookmakers incl. Pinnacle.
@@ -178,7 +179,6 @@ Bought one by one, the 6 countries cost $1,194.
 
 ---
 
-
-
 *Olivier Sports Data — From Chicken Area 🐔*
 Hand-built historical sports market data.
+
