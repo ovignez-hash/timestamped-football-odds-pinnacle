@@ -167,15 +167,13 @@ Each country is also sold on its own: both divisions, same tables, same columns,
 
 | Country | Competitions | Matches | Timestamped quotes | Full dataset |
 |---|---|---:|---:|---|
-| England | Premier League + Championship | 9,427 | 18,385,493 | [$199 →](https://sportsdataolivier.gumroad.com/l/nlmoz?utm_source=github&utm_medium=repo&utm_campaign=england_premium&utm_content=readme_country) |
-| Spain | La Liga + Segunda Division | 8,581 | 17,711,160 | [$199 →](https://sportsdataolivier.gumroad.com/l/gtcdde?utm_source=github&utm_medium=repo&utm_campaign=spain_premium&utm_content=readme_country) |
-| Italy | Serie A + Serie B | 7,899 | 15,415,836 | [$199 →](https://sportsdataolivier.gumroad.com/l/cbpiiw?utm_source=github&utm_medium=repo&utm_campaign=italy_premium&utm_content=readme_country) |
-| Germany | Bundesliga + 2. Bundesliga | 6,215 | 11,830,048 | [$199 →](https://sportsdataolivier.gumroad.com/l/fexff?utm_source=github&utm_medium=repo&utm_campaign=germany_premium&utm_content=readme_country) |
-| France | Ligue 1 + Ligue 2 | 7,097 | 12,545,106 | [$199 →](https://sportsdataolivier.gumroad.com/l/hsimne?utm_source=github&utm_medium=repo&utm_campaign=france_premium&utm_content=readme_country) |
-| Portugal | Primeira Liga + Liga Portugal 2 | 6,335 | 11,491,831 | [$199 →](https://sportsdataolivier.gumroad.com/l/bzuul?utm_source=github&utm_medium=repo&utm_campaign=portugal_premium&utm_content=readme_country) |
-| **All 6: Big 6 Europe Premium** | **12 competitions** | **45,554** | **87,379,474** | **[$499 →](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_pack)** |
-
-Bought one by one, the 6 countries cost $1,194.
+| England | Premier League + Championship | 9,427 | 18,385,493 | [Gumroad →](https://sportsdataolivier.gumroad.com/l/nlmoz?utm_source=github&utm_medium=repo&utm_campaign=england_premium&utm_content=readme_country) |
+| Spain | La Liga + Segunda Division | 8,581 | 17,711,160 | [Gumroad →](https://sportsdataolivier.gumroad.com/l/gtcdde?utm_source=github&utm_medium=repo&utm_campaign=spain_premium&utm_content=readme_country) |
+| Italy | Serie A + Serie B | 7,899 | 15,415,836 | [Gumroad →](https://sportsdataolivier.gumroad.com/l/cbpiiw?utm_source=github&utm_medium=repo&utm_campaign=italy_premium&utm_content=readme_country) |
+| Germany | Bundesliga + 2. Bundesliga | 6,215 | 11,830,048 | [Gumroad →](https://sportsdataolivier.gumroad.com/l/fexff?utm_source=github&utm_medium=repo&utm_campaign=germany_premium&utm_content=readme_country) |
+| France | Ligue 1 + Ligue 2 | 7,097 | 12,545,106 | [Gumroad →](https://sportsdataolivier.gumroad.com/l/hsimne?utm_source=github&utm_medium=repo&utm_campaign=france_premium&utm_content=readme_country) |
+| Portugal | Primeira Liga + Liga Portugal 2 | 6,335 | 11,491,831 | [Gumroad →](https://sportsdataolivier.gumroad.com/l/bzuul?utm_source=github&utm_medium=repo&utm_campaign=portugal_premium&utm_content=readme_country) |
+| **All 6: Big 6 Europe Premium** | **12 competitions** | **45,554** | **87,379,474** | **[Gumroad →](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_pack)** |
 
 ---
 
