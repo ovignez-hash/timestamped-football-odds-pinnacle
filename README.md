@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33926052/README.md)
 # ⚽ Timestamped Football Odds incl. Pinnacle — Premier League, La Liga, Serie A, Bundesliga, Ligue 1 + 7 More (free sample)
 
 **Free sample: 20 matches out of 45,554.** Same files, same columns, same formats as the full
