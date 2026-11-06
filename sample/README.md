@@ -295,6 +295,50 @@ to Lens (id 9899): coach, stadium (Bollaert-Delelis) and event texts all say Len
 **Half-time scores.** 3 half-time scores were higher than the final score (the source counted a goal it
 later cancelled): left empty rather than wrong.
 
+**Home / away orientation.** A bookmaker sometimes lists a fixture with the two teams the other way round. Every price series is aligned on the match's home and away teams: 1X2 and Asian handicap, full time and half time, with the handicap line and the live score turned with it (4 match-bookmaker series turned: Unibet 2, Pinnacle 2).
+
+**37 fixtures are not in the tables** because the source never marked them as finished (18 result never confirmed by the source; 10 result decided by the federation; 6 abandoned; 2 removed by the source; 1 interrupted). They are listed so that a gap in a season is never silent:
+
+| Source event | League | Date | Home | Away | Score shown | Status |
+|---|---|---|---|---|---|---|
+| 2456255 | ESP_SEG | 2019-06-09 | Rayo Majadahonda | Reus Deportiu | 1-0 | result decided by the federation |
+| 2696802 | ESP_SEG | 2020-10-03 | Alcorcon | Real Zaragoza | 0-3 | result decided by the federation |
+| 96905 | FRA_L1 | 2016-12-03 | Metz | Lyon | 1-0 | abandoned |
+| 189809 | FRA_L1 | 2017-04-16 | SC Bastia | Lyon | 0-0 | result decided by the federation |
+| 336655 | FRA_L1 | 2017-09-30 | Amiens | Lille | 0-1 | abandoned |
+| 1685748 | FRA_L1 | 2019-07-10 | Dijon | St Etienne |  | result never confirmed by the source |
+| 1685749 | FRA_L1 | 2019-07-10 | Marseille | Reims |  | result never confirmed by the source |
+| 1685750 | FRA_L1 | 2019-07-10 | Nice | Amiens |  | result never confirmed by the source |
+| 1685751 | FRA_L1 | 2019-07-10 | Strasbourg | Metz |  | result never confirmed by the source |
+| 1685752 | FRA_L1 | 2019-07-10 | Montpellier | Rennes |  | result never confirmed by the source |
+| 1685753 | FRA_L1 | 2019-07-10 | Angers | Bordeaux |  | result never confirmed by the source |
+| 1685754 | FRA_L1 | 2019-07-10 | Lille | Nantes |  | result never confirmed by the source |
+| 1685755 | FRA_L1 | 2019-07-10 | Brest | Toulouse |  | result never confirmed by the source |
+| 1685756 | FRA_L1 | 2019-07-10 | Monaco | Lyon |  | result never confirmed by the source |
+| 10176991 | FRA_L1 | 2026-05-17 | Nantes | Toulouse | 0-0 | abandoned |
+| 1584743 | FRA_L2 | 2019-05-02 | Niort | Lorient |  | result never confirmed by the source |
+| 2528042 | FRA_L2 | 2020-12-22 | Niort | Valenciennes | 0-3 | result decided by the federation |
+| 5608149 | FRA_L2 | 2023-06-02 | Bordeaux | Rodez Aveyron | 0-1 | result decided by the federation |
+| 8384536 | FRA_L2 | 2024-10-26 | AC Ajaccio | SC Bastia | 0-0 | abandoned |
+| 10189127 | FRA_L2 | 2025-08-09 | AC Ajaccio | SC Bastia |  | removed by the source |
+| 11841481 | FRA_L2 | 2026-05-09 | SC Bastia | Le Mans | - | result decided by the federation |
+| 2244816 | GER_BL | 2020-03-14 | Union Berlin | Bayern Munich |  | result never confirmed by the source |
+| 8451644 | GER_BL | 2024-12-14 | Union Berlin | Bochum | 0-2 | result decided by the federation |
+| 487433 | GER_BL2 | 2018-01-24 | Darmstadt | Kaiserslautern | 0-0 | abandoned |
+| 2743490 | GER_BL2 | 2020-09-19 | Heidenheim | Eintracht Braunschweig |  | result never confirmed by the source |
+| 2743491 | GER_BL2 | 2020-09-19 | Greuther Furth | VfL Osnabruck |  | result never confirmed by the source |
+| 2743492 | GER_BL2 | 2020-09-19 | Holstein Kiel | Paderborn |  | result never confirmed by the source |
+| 2743560 | GER_BL2 | 2020-09-19 | Bochum | St Pauli |  | result never confirmed by the source |
+| 2704533 | ITA_SA | 2020-09-19 | Verona | Roma | 3-0 | result decided by the federation |
+| 6678858 | ITA_SB | 2023-06-01 | Brescia | Cosenza | 0-3 | result decided by the federation |
+| 9953789 | ITA_SB | 2025-05-19 | Salernitana | Frosinone |  | removed by the source |
+| 10092286 | ITA_SB | 2025-06-22 | Salernitana | Sampdoria | 0-3 | result decided by the federation |
+| 8468696 | POR_PL | 2025-01-03 | Nacional | FC Porto | 2-0 | abandoned |
+| 11806975 | POR_PL | 2026-05-02 | Famalicao | Benfica | 2-2 | interrupted |
+| 12450160 | POR_PL | 2026-08-23 | Estrela | Braga |  | result never confirmed by the source |
+| 12450208 | POR_PL | 2026-08-23 | Moreirense | Benfica |  | result never confirmed by the source |
+| 1367170 | POR_SL | 2018-12-22 | Arouca | Guimaraes |  | result never confirmed by the source |
+
 ## Said plainly - known limitations
 
 - **Pinnacle**: closing prices regular from 2018/19 on FT_1X2, FT_Asian_Handicap, FT_Total_Goals. Its Asian handicap is regular from 2023/24. Lower coverage in 2023/24 (see the season table).
