@@ -25,7 +25,9 @@ This sample is an exact copy of the full product: same files, same columns, same
 | 11879281 | POR_PL | 2025/26 | Regular Season | 2026-05-16 | Estoril - Benfica | 1-3 |
 | 11884383 | POR_SL | 2025/26 | Regular Season | 2026-05-17 | Portimonense - SC Farense | 1-0 |
 
-Full product (all 45,554 matches) and contact: contact@oliviersportsdata.com
+Full product (all 45,554 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=sample_readme&utm_campaign=big6_premium&utm_content=readme)** · also on [Whop](https://whop.com/oliviersportsdata/timestamped-football-odds-pinnacle/?utm_source=github&utm_medium=sample_readme&utm_campaign=big6_premium&utm_content=whop_readme)
+
+Questions: contact@oliviersportsdata.com
 
 ---
 
