@@ -8,7 +8,7 @@ Most football odds datasets give you one closing number per match. The full prod
 and the match clock on the in-play quotes, plus the opening and the closing of every book and
 market with the exact time each was recorded.
 
-⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_top)** — 45,554 matches, 12 competitions, 2016–2026.
+⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_top)** — 45,554 matches, 12 competitions, 2016–2026 · also on [Whop](https://whop.com/oliviersportsdata/timestamped-football-odds-pinnacle/?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=whop_readme_top)
 
 ---
 
@@ -157,7 +157,7 @@ A question before buying: contact@oliviersportsdata.com
 
 ---
 
-👉 ⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_bottom)** 👈
+👉 ⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_bottom)** · also on [Whop](https://whop.com/oliviersportsdata/timestamped-football-odds-pinnacle/?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=whop_readme_bottom) 👈
 
 ---
 
