@@ -10,6 +10,10 @@ market with the exact time each was recorded.
 
 ⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=readme_top)** — 45,554 matches, 12 competitions, 2016–2026 · also on [Whop](https://whop.com/oliviersportsdata/timestamped-football-odds-pinnacle/?utm_source=github&utm_medium=repo&utm_campaign=big6_premium&utm_content=whop_readme_top)
 
+## Custom extracts: your leagues, your bookmakers
+
+The full product shows the full range of what I hold. Its 5 bookmakers are my own deliberate selection, made to keep the file readable: every bettor has their own reference books, often the local operators of their country. Other international and local bookmakers are available for many competitions, and you can keep only the countries, leagues, seasons and markets you need. Send your list (competitions, seasons, bookmakers, markets) to [contact@oliviersportsdata.com](mailto:contact@oliviersportsdata.com): I confirm the coverage first, then build the extract from the same data, with the same checks.
+
 ---
 
 ## In this repository
